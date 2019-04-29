@@ -1,0 +1,7 @@
+F:\Project\LFramework\bin\Debug\LFramework.exe.config
+F:\Project\LFramework\bin\Debug\LFramework.exe
+F:\Project\LFramework\bin\Debug\LFramework.pdb
+F:\Project\LFramework\obj\Debug\LFramework.csprojAssemblyReference.cache
+F:\Project\LFramework\obj\Debug\LFramework.csproj.CoreCompileInputs.cache
+F:\Project\LFramework\obj\Debug\LFramework.exe
+F:\Project\LFramework\obj\Debug\LFramework.pdb
